@@ -1,0 +1,8 @@
+C:\Users\alfed\OneDrive\Escritorio\Csharp\ImprimerNombre\ImprimerNombre\bin\Debug\ImprimerNombre.exe.config
+C:\Users\alfed\OneDrive\Escritorio\Csharp\ImprimerNombre\ImprimerNombre\bin\Debug\ImprimerNombre.exe
+C:\Users\alfed\OneDrive\Escritorio\Csharp\ImprimerNombre\ImprimerNombre\bin\Debug\ImprimerNombre.pdb
+C:\Users\alfed\OneDrive\Escritorio\Csharp\ImprimerNombre\ImprimerNombre\obj\Debug\ImprimerNombre.csproj.AssemblyReference.cache
+C:\Users\alfed\OneDrive\Escritorio\Csharp\ImprimerNombre\ImprimerNombre\obj\Debug\ImprimerNombre.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfed\OneDrive\Escritorio\Csharp\ImprimerNombre\ImprimerNombre\obj\Debug\ImprimerNombre.csproj.CoreCompileInputs.cache
+C:\Users\alfed\OneDrive\Escritorio\Csharp\ImprimerNombre\ImprimerNombre\obj\Debug\ImprimerNombre.exe
+C:\Users\alfed\OneDrive\Escritorio\Csharp\ImprimerNombre\ImprimerNombre\obj\Debug\ImprimerNombre.pdb
